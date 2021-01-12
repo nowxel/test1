@@ -1,3 +1,3 @@
-class First{
+class Second{
 
 }
